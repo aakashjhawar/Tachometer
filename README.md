@@ -27,16 +27,15 @@ cd Tachometer
 ## Working 
 
 #### Block Diagram of Tachometer-
-![Input image of sudoku](https://github.com/aakashjhawar/Tachometer/blob/master/images/block%20diagram.jpg)
+![Block Diagram](https://github.com/aakashjhawar/Tachometer/blob/master/images/block%20diagram.jpg)
 
 #### Anolog circuit design on Multisim-
-![Threshold image of sudoku](https://github.com/aakashjhawar/Tachometer/blob/master/images/analog%20tach.png)
+![Multisim](https://github.com/aakashjhawar/Tachometer/blob/master/images/analog%20tach.png)
 
 
-Learn more about Multisim [here](https://www.arduino.cc/en/main/software).
+Learn more about Multisim [here](http://www.ni.com/download/ni-circuit-design-suite-educational-edition-14.1/6510/en/).
 
 #### Digital circuit desing on Tinkercad-
-![Contour of sudoku](http://www.ni.com/download/ni-circuit-design-suite-educational-edition-14.1/6510/en/).
+![Tinkercad](https://github.com/aakashjhawar/Tachometer/blob/master/images/analog%20tach.png).
 
-
-Learn more about Tinkercah [here](https://www.tinkercad.com/).
+Learn more about Tinkercad [here](https://www.tinkercad.com/).
