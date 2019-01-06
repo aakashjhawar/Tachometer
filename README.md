@@ -13,7 +13,7 @@ cd Tachometer
 ## Prerequisites
 
 - Arduino IDE
-![](https://www.arduino.cc/en/main/software)
+[](https://www.arduino.cc/en/main/software)
 - basic understanding of Arduino UNO
 
 ## Components Used
@@ -29,6 +29,8 @@ cd Tachometer
 
 #### Anolog circuit design on Multisim-
 ![Threshold image of sudoku](https://github.com/aakashjhawar/Tachometer/blob/master/images/analog%20tach.png)
+
+
 
 #### Digital circuit desing on Tinkercad-
 ![Contour of sudoku](https://github.com/aakashjhawar/Tachometer/blob/master/images/tinkercad_circuit.png)
