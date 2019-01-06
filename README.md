@@ -36,6 +36,6 @@ cd Tachometer
 Learn more about Multisim [here](http://www.ni.com/download/ni-circuit-design-suite-educational-edition-14.1/6510/en/).
 
 #### Digital circuit desing on Tinkercad-
-![Tinkercad](https://github.com/aakashjhawar/Tachometer/blob/master/images/analog%20tach.png).
+![Tinkercad](https://github.com/aakashjhawar/Tachometer/blob/master/images/tinkercad_circuit.png).
 
 Learn more about Tinkercad [here](https://www.tinkercad.com/).
