@@ -13,7 +13,7 @@ cd Tachometer
 ## Prerequisites
 
 - Arduino IDE
-[](https://www.arduino.cc/en/main/software)
+[Get Arduino IDE](https://www.arduino.cc/en/main/software)
 - basic understanding of Arduino UNO
 
 ## Components Used
