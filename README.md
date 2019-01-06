@@ -15,9 +15,7 @@ cd Tachometer
 - Arduino IDE
 ![](https://www.arduino.cc/en/main/software)
 - basic understanding of Arduino UNO
-```
-sudo apt-get install python-opencv
-```
+
 ## Components Used
 1. IR Pair
 2. Arduino UNO
