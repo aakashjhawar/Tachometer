@@ -13,6 +13,8 @@ cd Tachometer
 ## Prerequisites
 
 - Arduino IDE
+
+
 [Get Arduino IDE](https://www.arduino.cc/en/main/software)
 - basic understanding of Arduino UNO
 
@@ -31,6 +33,10 @@ cd Tachometer
 ![Threshold image of sudoku](https://github.com/aakashjhawar/Tachometer/blob/master/images/analog%20tach.png)
 
 
+Learn more about Multisim [here](https://www.arduino.cc/en/main/software).
 
 #### Digital circuit desing on Tinkercad-
-![Contour of sudoku](https://github.com/aakashjhawar/Tachometer/blob/master/images/tinkercad_circuit.png)
+![Contour of sudoku](http://www.ni.com/download/ni-circuit-design-suite-educational-edition-14.1/6510/en/).
+
+
+Learn more about Tinkercah [here](https://www.tinkercad.com/).
